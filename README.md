@@ -1,5 +1,4 @@
-# lambda-function2
-a program in python using lambda function
+# lambda-function a program in python using lambda function
 def name(firstname,lastname):
     sep=' '
     firstname=str(input())
